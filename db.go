@@ -1,4 +1,4 @@
-package lab5
+package main
 import (
 	"database/sql"
 	"fmt"
